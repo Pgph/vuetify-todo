@@ -35,7 +35,7 @@ export default {
     return {
       team: [
         {
-          name: "The Net Ninja",
+          name: "Frank",
           role: "Web developer",
           avatar: "/avatar-1.jpg",
         },
