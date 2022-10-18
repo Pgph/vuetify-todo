@@ -1,4 +1,4 @@
-![preview-app](preview-app.png)
+![preview-app](/public/todo-vue.png)
 
 # todo-apl
 
